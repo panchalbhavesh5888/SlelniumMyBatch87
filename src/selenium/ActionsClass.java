@@ -14,6 +14,7 @@ public class ActionsClass {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		//adding comment for git hub repo
+		//adding comment to pull form git-hub to locate repo
 
 		FirefoxDriver driver = new FirefoxDriver();
 		driver.get("https://www.ebay.ca/");
